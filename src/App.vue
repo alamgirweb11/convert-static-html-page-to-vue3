@@ -5,6 +5,8 @@
        <AboutUs></AboutUs>
        <Service></Service>
        <Portfolio></Portfolio>
+       <Client></Client>
+       <Team></Team>
       <Footer></Footer>
       
       
@@ -18,6 +20,8 @@ import Banner from "./components/Banner.vue"
 import AboutUs from "./components/AboutUs.vue"
 import Service from "./components/Service.vue"
 import Portfolio from "./components/Portfolio.vue"
+import Client from "./components/Client.vue"
+import Team from "./components/Team.vue"
 import Footer from "./components/Footer.vue"
 
 
@@ -30,6 +34,8 @@ export default {
      AboutUs,
      Service,
      Portfolio,
+     Team,
+     Client,
   },
 };
 </script>

@@ -56,7 +56,7 @@
     </section>
   </div>
   <div class="container">
-    <div class="footer_bottom"><span>Copyright © 2014,    Template by <a href="http://webthemez.com">WebThemez.com</a>. </span> </div>
+    <div class="footer_bottom"><span>Copyright © 2021, Template by <a href="http://webthemez.com">WebThemez.com</a> and developed by <a href="https://github.com/alamgirweb11">Alamgir Hosen</a>. </span> </div>
   </div>
 </footer>
     </div>
